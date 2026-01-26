@@ -31,6 +31,7 @@ Optimized C++ implementations of LeetCode problems with a strong focus on algori
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/afrojkhan6033/LeetCode/tree/master/0050-powx-n) |
 | [2965-find-missing-and-repeated-values](https://github.com/afrojkhan6033/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -44,4 +45,8 @@ Optimized C++ implementations of LeetCode problems with a strong focus on algori
 |  |
 | ------- |
 | [0136-single-number](https://github.com/afrojkhan6033/LeetCode/tree/master/0136-single-number) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/afrojkhan6033/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
