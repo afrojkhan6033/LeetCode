@@ -6,6 +6,7 @@ Optimized C++ implementations of LeetCode problems with a strong focus on algori
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/afrojkhan6033/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/afrojkhan6033/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/afrojkhan6033/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/afrojkhan6033/LeetCode/tree/master/0169-majority-element) |
@@ -22,6 +23,7 @@ Optimized C++ implementations of LeetCode problems with a strong focus on algori
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/afrojkhan6033/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/afrojkhan6033/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/afrojkhan6033/LeetCode/tree/master/0169-majority-element) |
 ## Counting
@@ -40,6 +42,7 @@ Optimized C++ implementations of LeetCode problems with a strong focus on algori
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/afrojkhan6033/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/afrojkhan6033/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Bit Manipulation
 |  |
