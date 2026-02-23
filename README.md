@@ -46,6 +46,7 @@ Optimized C++ implementations of LeetCode problems with a strong focus on algori
 | [0031-next-permutation](https://github.com/afrojkhan6033/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/afrojkhan6033/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/afrojkhan6033/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/afrojkhan6033/LeetCode/tree/master/0125-valid-palindrome) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -54,4 +55,8 @@ Optimized C++ implementations of LeetCode problems with a strong focus on algori
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/afrojkhan6033/LeetCode/tree/master/0050-powx-n) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/afrojkhan6033/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
