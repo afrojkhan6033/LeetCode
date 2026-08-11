@@ -50,6 +50,7 @@ Optimized C++ implementations of LeetCode problems with a strong focus on algori
 | [0075-sort-colors](https://github.com/afrojkhan6033/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/afrojkhan6033/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/afrojkhan6033/LeetCode/tree/master/0125-valid-palindrome) |
+| [0876-middle-of-the-linked-list](https://github.com/afrojkhan6033/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -75,4 +76,8 @@ Optimized C++ implementations of LeetCode problems with a strong focus on algori
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/afrojkhan6033/LeetCode/tree/master/0075-sort-colors) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/afrojkhan6033/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
