@@ -59,6 +59,7 @@ Optimized C++ implementations of LeetCode problems with a strong focus on algori
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/afrojkhan6033/LeetCode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/afrojkhan6033/LeetCode/tree/master/0206-reverse-linked-list) |
 ## String
 |  |
 | ------- |
@@ -79,5 +80,6 @@ Optimized C++ implementations of LeetCode problems with a strong focus on algori
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/afrojkhan6033/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/afrojkhan6033/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
