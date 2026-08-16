@@ -28,7 +28,6 @@ public:
             current = current->next;
         }
 
-        // Attach remaining nodes
         if (list1 != nullptr) {
             current->next = list1;
         }
